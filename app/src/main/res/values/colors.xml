@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="my_app_color">#009688</color>
+    <color name="my_app_color2">#337DAF</color>
+    <color name="grey_100">#E8E7E7</color>
+    <color name="grey_200">#B5B4B4</color>
+    <color name="grey_300">#717171</color>
+    <color name="grey_400">#545555</color>
+    <color name="grey_500">#363737</color>
+    <color name="sky_blue">#EDF7FD</color>
+</resources>
